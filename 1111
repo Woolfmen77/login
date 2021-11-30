@@ -1,0 +1,1 @@
+int val = (int) res.stream().filter(x -> x.getLogin().equals(login)).count();
