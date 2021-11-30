@@ -1,3 +1,0 @@
-# login
-new
-new redme
